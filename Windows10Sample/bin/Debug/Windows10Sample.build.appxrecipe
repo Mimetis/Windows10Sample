@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MIM</Machine>
+    <WindowsUser>spertus</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9acaee8d-776e-4eb8-b9d2-302b7b0ad65c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\bin\Debug\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\packages\Microsoft.Diagnostics.Tracing.EventSource.Redist.1.1.14-beta\build\portable-net45+win8+wpa81\..\..\lib\net45\Microsoft.Diagnostics.Tracing.EventSource.dll">
+      <PackagePath>Microsoft.Diagnostics.Tracing.EventSource.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Albums\19-29-43.jpg">
+      <PackagePath>Albums\19-29-43.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Albums\19-36-04.jpg">
+      <PackagePath>Albums\19-36-04.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Albums\19-36-07.jpg">
+      <PackagePath>Albums\19-36-07.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Albums\19-36-09.jpg">
+      <PackagePath>Albums\19-36-09.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Albums\19-36-11.jpg">
+      <PackagePath>Albums\19-36-11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Albums\19-36-13.jpg">
+      <PackagePath>Albums\19-36-13.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Albums\19-36-15.jpg">
+      <PackagePath>Albums\19-36-15.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Assets\BingImage01.jpg">
+      <PackagePath>Assets\BingImage01.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Assets\BingImage02.jpg">
+      <PackagePath>Assets\BingImage02.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Assets\BingImage03.jpg">
+      <PackagePath>Assets\BingImage03.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Assets\BingImage04.jpg">
+      <PackagePath>Assets\BingImage04.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Assets\BingImage05.jpg">
+      <PackagePath>Assets\BingImage05.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Assets\UAPIcon.JPG">
+      <PackagePath>Assets\UAPIcon.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Assets\xboxmusic.JPG">
+      <PackagePath>Assets\xboxmusic.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Albums\Booba.png">
+      <PackagePath>Albums\Booba.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Albums\EuropeanSoul.png">
+      <PackagePath>Albums\EuropeanSoul.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Albums\Glitterbug.png">
+      <PackagePath>Albums\Glitterbug.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Albums\Homeland.png">
+      <PackagePath>Albums\Homeland.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Albums\IntoTheWildLife.png">
+      <PackagePath>Albums\IntoTheWildLife.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Albums\LaVague.png">
+      <PackagePath>Albums\LaVague.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Albums\Outside.png">
+      <PackagePath>Albums\Outside.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\bin\Debug\FriendsPage.xbf">
+      <PackagePath>FriendsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\bin\Debug\Views\Shell.xbf">
+      <PackagePath>Views\Shell.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\bin\Debug\App1.xr.xml">
+      <PackagePath>App1.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\\UnionMetadata\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

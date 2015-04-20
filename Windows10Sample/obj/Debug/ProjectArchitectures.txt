@@ -1,0 +1,1 @@
+C:\Projects\WIN 10\Demos apps\App1\Windows10Sample\Windows10Sample.csproj;neutral

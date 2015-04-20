@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+  </ReferenceAssemblyList>
+  <XamlSourceFileDataList>
+    <XamlSourceFileData XamlFileName="App.xaml" XamlFileTimeAtLastCompileInTicks="635646947372920281" ClassFullName="App1.App" />
+    <XamlSourceFileData XamlFileName="FriendsPage.xaml" XamlFileTimeAtLastCompileInTicks="635646953421982803" ClassFullName="App1.FriendsPage" />
+    <XamlSourceFileData XamlFileName="MainPage.xaml" XamlFileTimeAtLastCompileInTicks="635651505109004745" ClassFullName="App1.MainPage" />
+    <XamlSourceFileData XamlFileName="Views\Shell.xaml" XamlFileTimeAtLastCompileInTicks="635651499927923841" ClassFullName="App1.Views.Shell" />
+  </XamlSourceFileDataList>
+</XamlCompilerSaveState>

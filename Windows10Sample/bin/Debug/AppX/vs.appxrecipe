@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MIM</Machine>
+    <WindowsUser>spertus</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9acaee8d-776e-4eb8-b9d2-302b7b0ad65c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Projects\WIN 10\Demos apps\App1\App1\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D0C931310E81C69116A4CC53BEF3B64271BB14A1C1545F9B145E3105AF827A06</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9acaee8d-776e-4eb8-b9d2-302b7b0ad65c_1.0.0.0_neutral__frjbj8e8b44ec</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9acaee8d-776e-4eb8-b9d2-302b7b0ad65c_frjbj8e8b44ec!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9acaee8d-776e-4eb8-b9d2-302b7b0ad65c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=spertus</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Projects\WIN 10\Demos apps\App1\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-20T16:06:40.133</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\bin\Debug\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+      <Modified>2015-04-20T16:06:39.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\packages\Microsoft.Diagnostics.Tracing.EventSource.Redist.1.1.14-beta\build\portable-net45+win8+wpa81\..\..\lib\net45\Microsoft.Diagnostics.Tracing.EventSource.dll">
+      <PackagePath>Microsoft.Diagnostics.Tracing.EventSource.dll</PackagePath>
+      <Modified>2015-04-14T13:09:11.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Albums\19-29-43.jpg">
+      <PackagePath>Albums\19-29-43.jpg</PackagePath>
+      <Modified>2015-04-14T17:29:43.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Albums\19-36-04.jpg">
+      <PackagePath>Albums\19-36-04.jpg</PackagePath>
+      <Modified>2015-04-14T17:36:04.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Albums\19-36-07.jpg">
+      <PackagePath>Albums\19-36-07.jpg</PackagePath>
+      <Modified>2015-04-14T17:36:07.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Albums\19-36-09.jpg">
+      <PackagePath>Albums\19-36-09.jpg</PackagePath>
+      <Modified>2015-04-14T17:36:09.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Albums\19-36-11.jpg">
+      <PackagePath>Albums\19-36-11.jpg</PackagePath>
+      <Modified>2015-04-14T17:36:11.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Albums\19-36-13.jpg">
+      <PackagePath>Albums\19-36-13.jpg</PackagePath>
+      <Modified>2015-04-14T17:36:13.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Albums\19-36-15.jpg">
+      <PackagePath>Albums\19-36-15.jpg</PackagePath>
+      <Modified>2015-04-14T17:36:15.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Assets\BingImage01.jpg">
+      <PackagePath>Assets\BingImage01.jpg</PackagePath>
+      <Modified>2015-04-14T15:21:46.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Assets\BingImage02.jpg">
+      <PackagePath>Assets\BingImage02.jpg</PackagePath>
+      <Modified>2015-04-14T15:21:46.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Assets\BingImage03.jpg">
+      <PackagePath>Assets\BingImage03.jpg</PackagePath>
+      <Modified>2015-04-14T15:21:46.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Assets\BingImage04.jpg">
+      <PackagePath>Assets\BingImage04.jpg</PackagePath>
+      <Modified>2015-04-14T15:21:46.537</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Assets\BingImage05.jpg">
+      <PackagePath>Assets\BingImage05.jpg</PackagePath>
+      <Modified>2015-04-14T15:21:46.542</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Assets\UAPIcon.JPG">
+      <PackagePath>Assets\UAPIcon.JPG</PackagePath>
+      <Modified>2015-04-14T15:40:20.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Assets\xboxmusic.JPG">
+      <PackagePath>Assets\xboxmusic.JPG</PackagePath>
+      <Modified>2015-04-14T17:23:10.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Albums\Booba.png">
+      <PackagePath>Albums\Booba.png</PackagePath>
+      <Modified>2015-04-14T17:33:39.202</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Albums\EuropeanSoul.png">
+      <PackagePath>Albums\EuropeanSoul.png</PackagePath>
+      <Modified>2015-04-14T17:34:10.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Albums\Glitterbug.png">
+      <PackagePath>Albums\Glitterbug.png</PackagePath>
+      <Modified>2015-04-14T17:34:39.859</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Albums\Homeland.png">
+      <PackagePath>Albums\Homeland.png</PackagePath>
+      <Modified>2015-04-14T17:35:01.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Albums\IntoTheWildLife.png">
+      <PackagePath>Albums\IntoTheWildLife.png</PackagePath>
+      <Modified>2015-04-14T17:33:10.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Albums\LaVague.png">
+      <PackagePath>Albums\LaVague.png</PackagePath>
+      <Modified>2015-04-14T17:35:23.734</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Albums\Outside.png">
+      <PackagePath>Albums\Outside.png</PackagePath>
+      <Modified>2015-04-14T17:33:12.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <Modified>2015-04-15T09:35:08.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <Modified>2015-04-15T09:35:34.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <Modified>2015-04-15T09:37:55.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <Modified>2015-01-07T13:21:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <Modified>2015-01-07T13:21:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2015-04-14T13:09:07.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-20T15:11:04.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\bin\Debug\FriendsPage.xbf">
+      <PackagePath>FriendsPage.xbf</PackagePath>
+      <Modified>2015-04-20T15:11:04.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-20T15:11:04.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\bin\Debug\Views\Shell.xbf">
+      <PackagePath>Views\Shell.xbf</PackagePath>
+      <Modified>2015-04-20T16:06:39.414</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\bin\Debug\App1.xr.xml">
+      <PackagePath>App1.xr.xml</PackagePath>
+      <Modified>2015-04-20T15:11:04.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\\UnionMetadata\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2015-03-24T09:18:21.410</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\WIN 10\Demos apps\App1\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-20T16:06:40.055</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
